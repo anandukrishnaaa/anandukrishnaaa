@@ -29,7 +29,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=anandukrishnaaa&theme=nightowl&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anandukrishnaaa&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-# ✍️ Someone, somewhere, said
+# ✍️ Here's a Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-
