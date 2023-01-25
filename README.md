@@ -1,4 +1,7 @@
-# 💫 About Me:
+# Hi 👋
+# I'm Anandu Krishna, your friendly neighbourhood coder-man 🕸️
+
+## 💫 About Me:
 🔭 I’m currently working on Python & GIS<br>🌱 I’m currently learning Python, GIS & JS<br>⚡ Code & Coffee Enthusiast
 
 
@@ -12,13 +15,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=anandukrishnaaa&theme=nightowl&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anandukrishnaaa&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=anandukrishnaaa)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=anandukrishnaaa&icon=4&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
