@@ -1,5 +1,3 @@
-<center>
-  
 ![greetings](https://user-images.githubusercontent.com/76850547/214483102-17455b2e-9284-4664-80b5-e0fb4fc881b6.gif)
 
 # 🥷 About Me
@@ -33,5 +31,3 @@
 
 # ✍️ Here's a Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
- </center>
