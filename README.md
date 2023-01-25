@@ -1,5 +1,5 @@
 # Hi 👋
-# I'm Anandu Krishna, your friendly neighbourhood coder-man 🕸️
+<h2> I'm Anandu Krishna, your friendly neighbourhood coder-man 🕸️ </h2>
 
 ## 💫 About Me:
 🔭 I’m currently working on Python & GIS<br>🌱 I’m currently learning Python, GIS & JS<br>⚡ Code & Coffee Enthusiast
