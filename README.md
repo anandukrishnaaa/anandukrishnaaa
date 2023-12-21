@@ -1,7 +1,7 @@
 ![greetings](https://user-images.githubusercontent.com/76850547/214483102-17455b2e-9284-4664-80b5-e0fb4fc881b6.gif)
 
 # 🥷 About Me
-🔭 I’m currently working on Python & GIS<br>🌱 I’m currently learning Python, GIS & JS<br>⚡ Code & Coffee Enthusiast
+🔭 I’m currently working on ML/AI, Python & GIS<br>🌱 I’m currently learning ML/AI, Python, GIS & JS<br>⚡ Code & Coffee Enthusiast
 
 # 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anandukrishnaaa) 
